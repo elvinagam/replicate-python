@@ -33,3 +33,4 @@ def test_versions():
     assert len(versions) == 2
     assert versions[0].id == "v1"
     assert versions[1].id == "v2"
+
